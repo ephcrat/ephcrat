@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephcrat" alt="ephcrat" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Nextjs, Tailwind, React Query, & Ethers.js**
+- 🌱 I’m currently learning **Typescript, Nextjs, Tailwind, React Query, & Ethers.js.**
 
 - 💬 Ask me about **Reactjs & Web3 stuff.**
 
