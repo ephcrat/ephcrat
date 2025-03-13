@@ -1,27 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alejandro Hernández</h1>
-<h3 align="center">A passionate Full-Stack Developer from Venezuela &#127483;&#127466 living in Argentina &#127462;&#127479;</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephcrat" alt="ephcrat" /></a> </p>
-
-- 🌱 I’m currently learning **Typescript, Nextjs, Tailwind, React Query, & Ethers.js.**
-
-- 💬 Ask me about **Reactjs & Web3 stuff.**
-
-- 🤝 **I’m available for a full-time job.**
-
-- 📫 You can reach me at: **alejandromanuelhernandez@gmail.com**
+📫 You can reach me at: **alejandromanuelhernandez@gmail.com**
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandromhernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandromhernandez" height="30" width="40" /></a>
-
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react query" width="40" height="40"/> </a> <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers" width="40" height="40"/> </a> <a href="https://wagmi.sh" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1520407180322693120/uS6VdwoS_400x400.jpg" alt="wagmi width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra ui" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.clipartmax.com/png/middle/87-879058_formation-node-js-node-js-logo-vector.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/sequelize-logo-116093759810rkwwbipng.png" alt="sequelize" width="40" height="40"/> </a>  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="prisma" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    </p>
-
-<h3>Statistical Data:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ephcrat&show_icons=true&locale=en&layout=compact" alt="ephcrat" /></p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ephcrat&show_icons=true&locale=en" alt="ephcrat" /></p>
 
