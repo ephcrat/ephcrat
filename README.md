@@ -1,4 +1,3 @@
-
 📫 You can reach me at: **alejandromanuelhernandez@gmail.com**
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
